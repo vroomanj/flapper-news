@@ -1,2 +1,1 @@
-# flapper-news
 Flapper News from https://thinkster.io/angular-rails
